@@ -1,0 +1,18 @@
+{
+  "name": "node-bullshit",
+  "version": "1.0.2",
+  "description": "Playing around node to create CLI app",
+  "bin": {
+    "node-bullshit": "./bin/start.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shubham Tiwari",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cross-spawn": "^6.0.5"
+  }
+}
